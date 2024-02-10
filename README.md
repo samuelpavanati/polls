@@ -1,7 +1,7 @@
 # POLLS
 
-
 # Commands
+```
 npm init -y
 npm i typescript @types/node -D
 npx tsc --init
@@ -21,6 +21,7 @@ docker logs (container id)
 8898c1edcad2
 npm i ioredis
 npm i @fastify/websocket
+```
 
 # Websites
 - https://github.com/microsoft/TypeScript/wiki/Node-Target-Mapping
