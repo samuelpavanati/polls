@@ -18,7 +18,6 @@ npx prisma studio
 npm i zod
 npm i @fastify/cookie
 docker logs (container id)
-8898c1edcad2
 npm i ioredis
 npm i @fastify/websocket
 ```
